@@ -1,0 +1,50 @@
+{
+  "demo_mode": {
+    "name": "AI Airport Companion - Investor/Presentation Demo",
+    "description": "One-click scenario loader that seeds the app with a curated, repeatable dataset slice for live demos.",
+    "scenarios": [
+      {
+        "id": "evening_rush",
+        "label": "Evening Rush Hour",
+        "description": "Loads 18:00-20:00 window with high security/immigration congestion and ~70% parking occupancy across all zones.",
+        "preset_time": "2026-06-22T18:30:00",
+        "highlighted_checkpoints": [
+          "FAC0089",
+          "FAC0009"
+        ],
+        "expected_alerts": [
+          "security_checkpoint: HIGH congestion - suggest opening 2 extra lanes",
+          "parking Zone B: 78% full - rush predicted to peak at 19:00"
+        ]
+      },
+      {
+        "id": "weather_delay",
+        "label": "Weather-Driven Delay",
+        "description": "Loads a storm-condition window showing flight delay predictions and a 'leave earlier' passenger recommendation.",
+        "preset_time": "2026-06-23T07:00:00",
+        "sample_flight": "FL0187"
+      },
+      {
+        "id": "calm_morning",
+        "label": "Calm Early Morning",
+        "description": "Loads a low-traffic baseline window (04:00-06:00) to contrast against the rush-hour scenario.",
+        "preset_time": "2026-06-22T05:00:00"
+      }
+    ],
+    "demo_accounts": {
+      "passenger_quick_login": {
+        "pnr": "9GACQD",
+        "last_name": "Brown"
+      },
+      "staff_quick_login": {
+        "username": "staff02.nair",
+        "password": "Staff@2028!"
+      },
+      "admin_quick_login": {
+        "username": "admin.ops",
+        "password": "AdminOps@2026!"
+      }
+    },
+    "reset_behavior": "Re-running the loader resets all demo session state and reloads this manifest; does not affect real data."
+  }
+}

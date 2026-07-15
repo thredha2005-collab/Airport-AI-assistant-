@@ -1,0 +1,389 @@
+parking_id,zone_name,total_slots,occupied_slots,occupancy_ratio,hourly_rate,distance_to_terminal_m,timestamp,vehicle_type
+PARK00001,Zone A - Terminal 1 Short Stay,250,64,0.26,2.0,532,2026-06-21 00:00:00,car
+PARK00002,Zone A - Terminal 1 Short Stay,250,102,0.41,2.0,289,2026-06-21 01:00:00,van
+PARK00003,Zone A - Terminal 1 Short Stay,250,114,0.46,2.0,569,2026-06-21 02:00:00,van
+PARK00004,Zone A - Terminal 1 Short Stay,250,71,0.28,2.0,125,2026-06-21 03:00:00,car
+PARK00005,Zone A - Terminal 1 Short Stay,250,116,0.46,2.0,381,2026-06-21 04:00:00,motorcycle
+PARK00006,Zone A - Terminal 1 Short Stay,250,101,0.41,2.0,103,2026-06-21 05:00:00,car
+PARK00007,Zone A - Terminal 1 Short Stay,250,105,0.42,2.0,102,2026-06-21 06:00:00,motorcycle
+PARK00008,Zone A - Terminal 1 Short Stay,250,188,0.75,2.0,352,2026-06-21 07:00:00,van
+PARK00009,Zone A - Terminal 1 Short Stay,250,198,0.79,2.0,465,2026-06-21 08:00:00,car
+PARK00010,Zone A - Terminal 1 Short Stay,250,191,0.77,2.0,235,2026-06-21 09:00:00,car
+PARK00011,Zone A - Terminal 1 Short Stay,250,153,0.61,2.0,552,2026-06-21 10:00:00,taxi
+PARK00012,Zone A - Terminal 1 Short Stay,250,103,0.41,2.0,145,2026-06-21 11:00:00,car
+PARK00013,Zone A - Terminal 1 Short Stay,250,125,0.5,2.0,340,2026-06-21 12:00:00,car
+PARK00014,Zone A - Terminal 1 Short Stay,250,125,0.5,2.0,127,2026-06-21 13:00:00,car
+PARK00015,Zone A - Terminal 1 Short Stay,250,124,0.5,2.0,207,2026-06-21 14:00:00,taxi
+PARK00016,Zone A - Terminal 1 Short Stay,250,122,0.49,2.0,94,2026-06-21 15:00:00,motorcycle
+PARK00017,Zone A - Terminal 1 Short Stay,250,139,0.56,2.0,598,2026-06-21 16:00:00,motorcycle
+PARK00018,Zone A - Terminal 1 Short Stay,250,164,0.66,2.0,203,2026-06-21 17:00:00,car
+PARK00019,Zone A - Terminal 1 Short Stay,250,198,0.79,2.0,402,2026-06-21 18:00:00,taxi
+PARK00020,Zone A - Terminal 1 Short Stay,250,224,0.9,2.0,588,2026-06-21 19:00:00,car
+PARK00021,Zone A - Terminal 1 Short Stay,250,158,0.63,2.0,264,2026-06-21 20:00:00,car
+PARK00022,Zone A - Terminal 1 Short Stay,250,123,0.49,2.0,119,2026-06-21 21:00:00,van
+PARK00023,Zone A - Terminal 1 Short Stay,250,86,0.35,2.0,257,2026-06-21 22:00:00,car
+PARK00024,Zone A - Terminal 1 Short Stay,250,99,0.4,2.0,591,2026-06-21 23:00:00,car
+PARK00025,Zone A - Terminal 1 Short Stay,250,70,0.28,2.0,449,2026-06-22 00:00:00,taxi
+PARK00026,Zone A - Terminal 1 Short Stay,250,67,0.27,2.0,421,2026-06-22 01:00:00,car
+PARK00027,Zone A - Terminal 1 Short Stay,250,75,0.3,2.0,336,2026-06-22 02:00:00,car
+PARK00028,Zone A - Terminal 1 Short Stay,250,102,0.41,2.0,237,2026-06-22 03:00:00,car
+PARK00029,Zone A - Terminal 1 Short Stay,250,100,0.4,2.0,465,2026-06-22 04:00:00,car
+PARK00030,Zone A - Terminal 1 Short Stay,250,122,0.49,2.0,284,2026-06-22 05:00:00,motorcycle
+PARK00031,Zone A - Terminal 1 Short Stay,250,181,0.73,2.0,432,2026-06-22 06:00:00,car
+PARK00032,Zone A - Terminal 1 Short Stay,250,208,0.83,2.0,154,2026-06-22 07:00:00,car
+PARK00033,Zone A - Terminal 1 Short Stay,250,212,0.85,2.0,508,2026-06-22 08:00:00,van
+PARK00034,Zone A - Terminal 1 Short Stay,250,182,0.73,2.0,467,2026-06-22 09:00:00,car
+PARK00035,Zone A - Terminal 1 Short Stay,250,168,0.67,2.0,515,2026-06-22 10:00:00,motorcycle
+PARK00036,Zone A - Terminal 1 Short Stay,250,122,0.49,2.0,437,2026-06-22 11:00:00,van
+PARK00037,Zone A - Terminal 1 Short Stay,250,79,0.32,2.0,320,2026-06-22 12:00:00,car
+PARK00038,Zone A - Terminal 1 Short Stay,250,94,0.38,2.0,598,2026-06-22 13:00:00,car
+PARK00039,Zone A - Terminal 1 Short Stay,250,86,0.35,2.0,172,2026-06-22 14:00:00,taxi
+PARK00040,Zone A - Terminal 1 Short Stay,250,95,0.38,2.0,409,2026-06-22 15:00:00,car
+PARK00041,Zone A - Terminal 1 Short Stay,250,147,0.59,2.0,105,2026-06-22 16:00:00,car
+PARK00042,Zone A - Terminal 1 Short Stay,250,172,0.69,2.0,370,2026-06-22 17:00:00,car
+PARK00043,Zone A - Terminal 1 Short Stay,250,210,0.84,2.0,490,2026-06-22 18:00:00,car
+PARK00044,Zone A - Terminal 1 Short Stay,250,168,0.67,2.0,383,2026-06-22 19:00:00,taxi
+PARK00045,Zone A - Terminal 1 Short Stay,250,166,0.66,2.0,520,2026-06-22 20:00:00,car
+PARK00046,Zone A - Terminal 1 Short Stay,250,115,0.46,2.0,111,2026-06-22 21:00:00,car
+PARK00047,Zone A - Terminal 1 Short Stay,250,57,0.23,2.0,396,2026-06-22 22:00:00,car
+PARK00048,Zone A - Terminal 1 Short Stay,250,107,0.43,2.0,421,2026-06-22 23:00:00,car
+PARK00049,Zone A - Terminal 1 Short Stay,250,117,0.47,2.0,170,2026-06-23 00:00:00,car
+PARK00050,Zone A - Terminal 1 Short Stay,250,79,0.32,2.0,288,2026-06-23 01:00:00,motorcycle
+PARK00051,Zone A - Terminal 1 Short Stay,250,99,0.4,2.0,558,2026-06-23 02:00:00,car
+PARK00052,Zone A - Terminal 1 Short Stay,250,85,0.34,2.0,321,2026-06-23 03:00:00,van
+PARK00053,Zone A - Terminal 1 Short Stay,250,64,0.26,2.0,282,2026-06-23 04:00:00,car
+PARK00054,Zone A - Terminal 1 Short Stay,250,104,0.42,2.0,469,2026-06-23 05:00:00,car
+PARK00055,Zone A - Terminal 1 Short Stay,250,151,0.6,2.0,567,2026-06-23 06:00:00,car
+PARK00056,Zone A - Terminal 1 Short Stay,250,192,0.77,2.0,222,2026-06-23 07:00:00,car
+PARK00057,Zone A - Terminal 1 Short Stay,250,190,0.76,2.0,597,2026-06-23 08:00:00,car
+PARK00058,Zone A - Terminal 1 Short Stay,250,186,0.75,2.0,280,2026-06-23 09:00:00,car
+PARK00059,Zone A - Terminal 1 Short Stay,250,147,0.59,2.0,200,2026-06-23 10:00:00,car
+PARK00060,Zone A - Terminal 1 Short Stay,250,122,0.49,2.0,403,2026-06-23 11:00:00,car
+PARK00061,Zone A - Terminal 1 Short Stay,250,107,0.43,2.0,344,2026-06-23 12:00:00,taxi
+PARK00062,Zone A - Terminal 1 Short Stay,250,105,0.42,2.0,140,2026-06-23 13:00:00,car
+PARK00063,Zone A - Terminal 1 Short Stay,250,83,0.33,2.0,194,2026-06-23 14:00:00,motorcycle
+PARK00064,Zone A - Terminal 1 Short Stay,250,151,0.6,2.0,231,2026-06-23 15:00:00,car
+PARK00065,Zone A - Terminal 1 Short Stay,250,169,0.68,2.0,57,2026-06-23 16:00:00,car
+PARK00066,Zone A - Terminal 1 Short Stay,250,137,0.55,2.0,160,2026-06-23 17:00:00,car
+PARK00067,Zone A - Terminal 1 Short Stay,250,212,0.85,2.0,71,2026-06-23 18:00:00,taxi
+PARK00068,Zone A - Terminal 1 Short Stay,250,141,0.57,2.0,547,2026-06-23 19:00:00,motorcycle
+PARK00069,Zone A - Terminal 1 Short Stay,250,172,0.69,2.0,203,2026-06-23 20:00:00,car
+PARK00070,Zone A - Terminal 1 Short Stay,250,87,0.35,2.0,279,2026-06-23 21:00:00,car
+PARK00071,Zone A - Terminal 1 Short Stay,250,78,0.31,2.0,571,2026-06-23 22:00:00,van
+PARK00072,Zone A - Terminal 1 Short Stay,250,97,0.39,2.0,202,2026-06-23 23:00:00,car
+PARK00073,Zone A - Terminal 1 Short Stay,250,60,0.24,2.0,373,2026-06-24 00:00:00,car
+PARK00074,Zone A - Terminal 1 Short Stay,250,94,0.38,2.0,217,2026-06-24 01:00:00,taxi
+PARK00075,Zone A - Terminal 1 Short Stay,250,104,0.42,2.0,117,2026-06-24 02:00:00,car
+PARK00076,Zone A - Terminal 1 Short Stay,250,84,0.34,2.0,467,2026-06-24 03:00:00,van
+PARK00077,Zone A - Terminal 1 Short Stay,250,107,0.43,2.0,320,2026-06-24 04:00:00,car
+PARK00078,Zone A - Terminal 1 Short Stay,250,143,0.57,2.0,313,2026-06-24 05:00:00,car
+PARK00079,Zone A - Terminal 1 Short Stay,250,156,0.63,2.0,453,2026-06-24 06:00:00,motorcycle
+PARK00080,Zone A - Terminal 1 Short Stay,250,214,0.86,2.0,446,2026-06-24 07:00:00,car
+PARK00081,Zone A - Terminal 1 Short Stay,250,218,0.87,2.0,493,2026-06-24 08:00:00,car
+PARK00082,Zone A - Terminal 1 Short Stay,250,222,0.89,2.0,229,2026-06-24 09:00:00,car
+PARK00083,Zone A - Terminal 1 Short Stay,250,156,0.62,2.0,283,2026-06-24 10:00:00,car
+PARK00084,Zone A - Terminal 1 Short Stay,250,114,0.46,2.0,507,2026-06-24 11:00:00,car
+PARK00085,Zone A - Terminal 1 Short Stay,250,74,0.3,2.0,244,2026-06-24 12:00:00,car
+PARK00086,Zone A - Terminal 1 Short Stay,250,109,0.44,2.0,555,2026-06-24 13:00:00,car
+PARK00087,Zone A - Terminal 1 Short Stay,250,92,0.37,2.0,144,2026-06-24 14:00:00,van
+PARK00088,Zone A - Terminal 1 Short Stay,250,134,0.54,2.0,174,2026-06-24 15:00:00,car
+PARK00089,Zone A - Terminal 1 Short Stay,250,143,0.57,2.0,90,2026-06-24 16:00:00,car
+PARK00090,Zone A - Terminal 1 Short Stay,250,175,0.7,2.0,107,2026-06-24 17:00:00,car
+PARK00091,Zone A - Terminal 1 Short Stay,250,192,0.77,2.0,348,2026-06-24 18:00:00,taxi
+PARK00092,Zone A - Terminal 1 Short Stay,250,169,0.68,2.0,162,2026-06-24 19:00:00,car
+PARK00093,Zone A - Terminal 1 Short Stay,250,120,0.48,2.0,458,2026-06-24 20:00:00,taxi
+PARK00094,Zone A - Terminal 1 Short Stay,250,122,0.49,2.0,541,2026-06-24 21:00:00,car
+PARK00095,Zone A - Terminal 1 Short Stay,250,102,0.41,2.0,510,2026-06-24 22:00:00,van
+PARK00096,Zone A - Terminal 1 Short Stay,250,99,0.4,2.0,130,2026-06-24 23:00:00,car
+PARK00097,Zone A - Terminal 1 Short Stay,250,89,0.36,2.0,470,2026-06-25 00:00:00,car
+PARK00098,Zone B - Terminal 2 Short Stay,300,132,0.44,2.0,592,2026-06-21 00:00:00,car
+PARK00099,Zone B - Terminal 2 Short Stay,300,105,0.35,2.0,379,2026-06-21 01:00:00,taxi
+PARK00100,Zone B - Terminal 2 Short Stay,300,78,0.26,2.0,167,2026-06-21 02:00:00,car
+PARK00101,Zone B - Terminal 2 Short Stay,300,108,0.36,2.0,487,2026-06-21 03:00:00,taxi
+PARK00102,Zone B - Terminal 2 Short Stay,300,108,0.36,2.0,313,2026-06-21 04:00:00,car
+PARK00103,Zone B - Terminal 2 Short Stay,300,138,0.46,2.0,211,2026-06-21 05:00:00,taxi
+PARK00104,Zone B - Terminal 2 Short Stay,300,212,0.71,2.0,361,2026-06-21 06:00:00,motorcycle
+PARK00105,Zone B - Terminal 2 Short Stay,300,245,0.82,2.0,330,2026-06-21 07:00:00,car
+PARK00106,Zone B - Terminal 2 Short Stay,300,239,0.8,2.0,591,2026-06-21 08:00:00,car
+PARK00107,Zone B - Terminal 2 Short Stay,300,181,0.6,2.0,325,2026-06-21 09:00:00,car
+PARK00108,Zone B - Terminal 2 Short Stay,300,177,0.59,2.0,352,2026-06-21 10:00:00,car
+PARK00109,Zone B - Terminal 2 Short Stay,300,149,0.5,2.0,312,2026-06-21 11:00:00,taxi
+PARK00110,Zone B - Terminal 2 Short Stay,300,105,0.35,2.0,486,2026-06-21 12:00:00,car
+PARK00111,Zone B - Terminal 2 Short Stay,300,149,0.5,2.0,594,2026-06-21 13:00:00,car
+PARK00112,Zone B - Terminal 2 Short Stay,300,170,0.57,2.0,121,2026-06-21 14:00:00,car
+PARK00113,Zone B - Terminal 2 Short Stay,300,161,0.54,2.0,517,2026-06-21 15:00:00,car
+PARK00114,Zone B - Terminal 2 Short Stay,300,193,0.65,2.0,167,2026-06-21 16:00:00,car
+PARK00115,Zone B - Terminal 2 Short Stay,300,219,0.73,2.0,559,2026-06-21 17:00:00,car
+PARK00116,Zone B - Terminal 2 Short Stay,300,220,0.74,2.0,226,2026-06-21 18:00:00,car
+PARK00117,Zone B - Terminal 2 Short Stay,300,173,0.58,2.0,187,2026-06-21 19:00:00,car
+PARK00118,Zone B - Terminal 2 Short Stay,300,127,0.42,2.0,345,2026-06-21 20:00:00,car
+PARK00119,Zone B - Terminal 2 Short Stay,300,162,0.54,2.0,179,2026-06-21 21:00:00,car
+PARK00120,Zone B - Terminal 2 Short Stay,300,143,0.48,2.0,497,2026-06-21 22:00:00,car
+PARK00121,Zone B - Terminal 2 Short Stay,300,107,0.36,2.0,510,2026-06-21 23:00:00,car
+PARK00122,Zone B - Terminal 2 Short Stay,300,74,0.25,2.0,99,2026-06-22 00:00:00,car
+PARK00123,Zone B - Terminal 2 Short Stay,300,91,0.31,2.0,556,2026-06-22 01:00:00,car
+PARK00124,Zone B - Terminal 2 Short Stay,300,117,0.39,2.0,494,2026-06-22 02:00:00,car
+PARK00125,Zone B - Terminal 2 Short Stay,300,105,0.35,2.0,404,2026-06-22 03:00:00,car
+PARK00126,Zone B - Terminal 2 Short Stay,300,113,0.38,2.0,534,2026-06-22 04:00:00,car
+PARK00127,Zone B - Terminal 2 Short Stay,300,99,0.33,2.0,516,2026-06-22 05:00:00,car
+PARK00128,Zone B - Terminal 2 Short Stay,300,194,0.65,2.0,238,2026-06-22 06:00:00,van
+PARK00129,Zone B - Terminal 2 Short Stay,300,193,0.65,2.0,579,2026-06-22 07:00:00,car
+PARK00130,Zone B - Terminal 2 Short Stay,300,258,0.86,2.0,315,2026-06-22 08:00:00,car
+PARK00131,Zone B - Terminal 2 Short Stay,300,258,0.86,2.0,203,2026-06-22 09:00:00,car
+PARK00132,Zone B - Terminal 2 Short Stay,300,153,0.51,2.0,467,2026-06-22 10:00:00,taxi
+PARK00133,Zone B - Terminal 2 Short Stay,300,118,0.4,2.0,126,2026-06-22 11:00:00,car
+PARK00134,Zone B - Terminal 2 Short Stay,300,126,0.42,2.0,342,2026-06-22 12:00:00,car
+PARK00135,Zone B - Terminal 2 Short Stay,300,115,0.38,2.0,329,2026-06-22 13:00:00,car
+PARK00136,Zone B - Terminal 2 Short Stay,300,118,0.4,2.0,86,2026-06-22 14:00:00,motorcycle
+PARK00137,Zone B - Terminal 2 Short Stay,300,156,0.52,2.0,74,2026-06-22 15:00:00,car
+PARK00138,Zone B - Terminal 2 Short Stay,300,175,0.58,2.0,332,2026-06-22 16:00:00,car
+PARK00139,Zone B - Terminal 2 Short Stay,300,215,0.72,2.0,356,2026-06-22 17:00:00,taxi
+PARK00140,Zone B - Terminal 2 Short Stay,300,232,0.77,2.0,437,2026-06-22 18:00:00,van
+PARK00141,Zone B - Terminal 2 Short Stay,300,232,0.78,2.0,569,2026-06-22 19:00:00,car
+PARK00142,Zone B - Terminal 2 Short Stay,300,141,0.47,2.0,95,2026-06-22 20:00:00,car
+PARK00143,Zone B - Terminal 2 Short Stay,300,138,0.46,2.0,248,2026-06-22 21:00:00,van
+PARK00144,Zone B - Terminal 2 Short Stay,300,134,0.45,2.0,57,2026-06-22 22:00:00,motorcycle
+PARK00145,Zone B - Terminal 2 Short Stay,300,102,0.34,2.0,84,2026-06-22 23:00:00,taxi
+PARK00146,Zone B - Terminal 2 Short Stay,300,91,0.3,2.0,599,2026-06-23 00:00:00,car
+PARK00147,Zone B - Terminal 2 Short Stay,300,107,0.36,2.0,263,2026-06-23 01:00:00,taxi
+PARK00148,Zone B - Terminal 2 Short Stay,300,114,0.38,2.0,210,2026-06-23 02:00:00,car
+PARK00149,Zone B - Terminal 2 Short Stay,300,62,0.21,2.0,593,2026-06-23 03:00:00,car
+PARK00150,Zone B - Terminal 2 Short Stay,300,135,0.45,2.0,147,2026-06-23 04:00:00,taxi
+PARK00151,Zone B - Terminal 2 Short Stay,300,128,0.43,2.0,462,2026-06-23 05:00:00,car
+PARK00152,Zone B - Terminal 2 Short Stay,300,220,0.73,2.0,120,2026-06-23 06:00:00,car
+PARK00153,Zone B - Terminal 2 Short Stay,300,181,0.6,2.0,374,2026-06-23 07:00:00,motorcycle
+PARK00154,Zone B - Terminal 2 Short Stay,300,232,0.77,2.0,203,2026-06-23 08:00:00,van
+PARK00155,Zone B - Terminal 2 Short Stay,300,258,0.86,2.0,260,2026-06-23 09:00:00,car
+PARK00156,Zone B - Terminal 2 Short Stay,300,177,0.59,2.0,115,2026-06-23 10:00:00,car
+PARK00157,Zone B - Terminal 2 Short Stay,300,176,0.59,2.0,455,2026-06-23 11:00:00,car
+PARK00158,Zone B - Terminal 2 Short Stay,300,97,0.33,2.0,533,2026-06-23 12:00:00,taxi
+PARK00159,Zone B - Terminal 2 Short Stay,300,125,0.42,2.0,91,2026-06-23 13:00:00,car
+PARK00160,Zone B - Terminal 2 Short Stay,300,113,0.38,2.0,428,2026-06-23 14:00:00,car
+PARK00161,Zone B - Terminal 2 Short Stay,300,175,0.58,2.0,444,2026-06-23 15:00:00,car
+PARK00162,Zone B - Terminal 2 Short Stay,300,235,0.79,2.0,348,2026-06-23 16:00:00,car
+PARK00163,Zone B - Terminal 2 Short Stay,300,206,0.69,2.0,229,2026-06-23 17:00:00,car
+PARK00164,Zone B - Terminal 2 Short Stay,300,226,0.76,2.0,60,2026-06-23 18:00:00,car
+PARK00165,Zone B - Terminal 2 Short Stay,300,219,0.73,2.0,375,2026-06-23 19:00:00,motorcycle
+PARK00166,Zone B - Terminal 2 Short Stay,300,182,0.61,2.0,494,2026-06-23 20:00:00,car
+PARK00167,Zone B - Terminal 2 Short Stay,300,167,0.56,2.0,178,2026-06-23 21:00:00,car
+PARK00168,Zone B - Terminal 2 Short Stay,300,110,0.37,2.0,322,2026-06-23 22:00:00,car
+PARK00169,Zone B - Terminal 2 Short Stay,300,84,0.28,2.0,560,2026-06-23 23:00:00,taxi
+PARK00170,Zone B - Terminal 2 Short Stay,300,152,0.51,2.0,209,2026-06-24 00:00:00,motorcycle
+PARK00171,Zone B - Terminal 2 Short Stay,300,112,0.38,2.0,210,2026-06-24 01:00:00,taxi
+PARK00172,Zone B - Terminal 2 Short Stay,300,153,0.51,2.0,497,2026-06-24 02:00:00,car
+PARK00173,Zone B - Terminal 2 Short Stay,300,105,0.35,2.0,334,2026-06-24 03:00:00,car
+PARK00174,Zone B - Terminal 2 Short Stay,300,122,0.41,2.0,164,2026-06-24 04:00:00,car
+PARK00175,Zone B - Terminal 2 Short Stay,300,132,0.44,2.0,202,2026-06-24 05:00:00,motorcycle
+PARK00176,Zone B - Terminal 2 Short Stay,300,182,0.61,2.0,184,2026-06-24 06:00:00,car
+PARK00177,Zone B - Terminal 2 Short Stay,300,249,0.83,2.0,336,2026-06-24 07:00:00,taxi
+PARK00178,Zone B - Terminal 2 Short Stay,300,282,0.94,2.0,406,2026-06-24 08:00:00,car
+PARK00179,Zone B - Terminal 2 Short Stay,300,200,0.67,2.0,448,2026-06-24 09:00:00,van
+PARK00180,Zone B - Terminal 2 Short Stay,300,133,0.44,2.0,111,2026-06-24 10:00:00,car
+PARK00181,Zone B - Terminal 2 Short Stay,300,141,0.47,2.0,506,2026-06-24 11:00:00,taxi
+PARK00182,Zone B - Terminal 2 Short Stay,300,121,0.41,2.0,262,2026-06-24 12:00:00,car
+PARK00183,Zone B - Terminal 2 Short Stay,300,108,0.36,2.0,335,2026-06-24 13:00:00,car
+PARK00184,Zone B - Terminal 2 Short Stay,300,108,0.36,2.0,245,2026-06-24 14:00:00,motorcycle
+PARK00185,Zone B - Terminal 2 Short Stay,300,149,0.5,2.0,482,2026-06-24 15:00:00,car
+PARK00186,Zone B - Terminal 2 Short Stay,300,169,0.57,2.0,448,2026-06-24 16:00:00,taxi
+PARK00187,Zone B - Terminal 2 Short Stay,300,221,0.74,2.0,458,2026-06-24 17:00:00,car
+PARK00188,Zone B - Terminal 2 Short Stay,300,210,0.7,2.0,527,2026-06-24 18:00:00,car
+PARK00189,Zone B - Terminal 2 Short Stay,300,191,0.64,2.0,78,2026-06-24 19:00:00,taxi
+PARK00190,Zone B - Terminal 2 Short Stay,300,177,0.59,2.0,564,2026-06-24 20:00:00,car
+PARK00191,Zone B - Terminal 2 Short Stay,300,112,0.37,2.0,555,2026-06-24 21:00:00,car
+PARK00192,Zone B - Terminal 2 Short Stay,300,112,0.37,2.0,253,2026-06-24 22:00:00,car
+PARK00193,Zone B - Terminal 2 Short Stay,300,137,0.46,2.0,355,2026-06-24 23:00:00,car
+PARK00194,Zone B - Terminal 2 Short Stay,300,96,0.32,2.0,347,2026-06-25 00:00:00,car
+PARK00195,Zone C - Terminal 3 Short Stay,180,49,0.28,2.0,581,2026-06-21 00:00:00,car
+PARK00196,Zone C - Terminal 3 Short Stay,180,68,0.38,2.0,110,2026-06-21 01:00:00,car
+PARK00197,Zone C - Terminal 3 Short Stay,180,61,0.34,2.0,130,2026-06-21 02:00:00,car
+PARK00198,Zone C - Terminal 3 Short Stay,180,82,0.46,2.0,255,2026-06-21 03:00:00,car
+PARK00199,Zone C - Terminal 3 Short Stay,180,75,0.42,2.0,422,2026-06-21 04:00:00,car
+PARK00200,Zone C - Terminal 3 Short Stay,180,84,0.47,2.0,494,2026-06-21 05:00:00,van
+PARK00201,Zone C - Terminal 3 Short Stay,180,125,0.7,2.0,398,2026-06-21 06:00:00,van
+PARK00202,Zone C - Terminal 3 Short Stay,180,155,0.86,2.0,498,2026-06-21 07:00:00,car
+PARK00203,Zone C - Terminal 3 Short Stay,180,148,0.83,2.0,278,2026-06-21 08:00:00,car
+PARK00204,Zone C - Terminal 3 Short Stay,180,120,0.67,2.0,264,2026-06-21 09:00:00,taxi
+PARK00205,Zone C - Terminal 3 Short Stay,180,131,0.73,2.0,530,2026-06-21 10:00:00,taxi
+PARK00206,Zone C - Terminal 3 Short Stay,180,103,0.57,2.0,499,2026-06-21 11:00:00,car
+PARK00207,Zone C - Terminal 3 Short Stay,180,73,0.41,2.0,458,2026-06-21 12:00:00,car
+PARK00208,Zone C - Terminal 3 Short Stay,180,51,0.28,2.0,91,2026-06-21 13:00:00,car
+PARK00209,Zone C - Terminal 3 Short Stay,180,80,0.45,2.0,272,2026-06-21 14:00:00,car
+PARK00210,Zone C - Terminal 3 Short Stay,180,71,0.4,2.0,355,2026-06-21 15:00:00,car
+PARK00211,Zone C - Terminal 3 Short Stay,180,120,0.67,2.0,308,2026-06-21 16:00:00,car
+PARK00212,Zone C - Terminal 3 Short Stay,180,111,0.62,2.0,382,2026-06-21 17:00:00,car
+PARK00213,Zone C - Terminal 3 Short Stay,180,139,0.77,2.0,459,2026-06-21 18:00:00,van
+PARK00214,Zone C - Terminal 3 Short Stay,180,125,0.7,2.0,541,2026-06-21 19:00:00,car
+PARK00215,Zone C - Terminal 3 Short Stay,180,115,0.64,2.0,107,2026-06-21 20:00:00,van
+PARK00216,Zone C - Terminal 3 Short Stay,180,86,0.48,2.0,595,2026-06-21 21:00:00,car
+PARK00217,Zone C - Terminal 3 Short Stay,180,79,0.44,2.0,430,2026-06-21 22:00:00,car
+PARK00218,Zone C - Terminal 3 Short Stay,180,58,0.33,2.0,598,2026-06-21 23:00:00,motorcycle
+PARK00219,Zone C - Terminal 3 Short Stay,180,65,0.36,2.0,86,2026-06-22 00:00:00,car
+PARK00220,Zone C - Terminal 3 Short Stay,180,58,0.33,2.0,542,2026-06-22 01:00:00,car
+PARK00221,Zone C - Terminal 3 Short Stay,180,68,0.38,2.0,247,2026-06-22 02:00:00,car
+PARK00222,Zone C - Terminal 3 Short Stay,180,75,0.42,2.0,386,2026-06-22 03:00:00,car
+PARK00223,Zone C - Terminal 3 Short Stay,180,68,0.38,2.0,315,2026-06-22 04:00:00,car
+PARK00224,Zone C - Terminal 3 Short Stay,180,69,0.38,2.0,358,2026-06-22 05:00:00,car
+PARK00225,Zone C - Terminal 3 Short Stay,180,120,0.67,2.0,274,2026-06-22 06:00:00,car
+PARK00226,Zone C - Terminal 3 Short Stay,180,143,0.8,2.0,404,2026-06-22 07:00:00,car
+PARK00227,Zone C - Terminal 3 Short Stay,180,154,0.86,2.0,544,2026-06-22 08:00:00,car
+PARK00228,Zone C - Terminal 3 Short Stay,180,111,0.62,2.0,364,2026-06-22 09:00:00,car
+PARK00229,Zone C - Terminal 3 Short Stay,180,121,0.67,2.0,574,2026-06-22 10:00:00,car
+PARK00230,Zone C - Terminal 3 Short Stay,180,99,0.55,2.0,298,2026-06-22 11:00:00,car
+PARK00231,Zone C - Terminal 3 Short Stay,180,63,0.35,2.0,542,2026-06-22 12:00:00,car
+PARK00232,Zone C - Terminal 3 Short Stay,180,90,0.5,2.0,549,2026-06-22 13:00:00,car
+PARK00233,Zone C - Terminal 3 Short Stay,180,62,0.35,2.0,83,2026-06-22 14:00:00,van
+PARK00234,Zone C - Terminal 3 Short Stay,180,114,0.64,2.0,564,2026-06-22 15:00:00,car
+PARK00235,Zone C - Terminal 3 Short Stay,180,120,0.67,2.0,65,2026-06-22 16:00:00,car
+PARK00236,Zone C - Terminal 3 Short Stay,180,135,0.75,2.0,531,2026-06-22 17:00:00,van
+PARK00237,Zone C - Terminal 3 Short Stay,180,131,0.73,2.0,461,2026-06-22 18:00:00,car
+PARK00238,Zone C - Terminal 3 Short Stay,180,116,0.65,2.0,598,2026-06-22 19:00:00,van
+PARK00239,Zone C - Terminal 3 Short Stay,180,107,0.6,2.0,367,2026-06-22 20:00:00,car
+PARK00240,Zone C - Terminal 3 Short Stay,180,89,0.5,2.0,441,2026-06-22 21:00:00,taxi
+PARK00241,Zone C - Terminal 3 Short Stay,180,62,0.35,2.0,219,2026-06-22 22:00:00,car
+PARK00242,Zone C - Terminal 3 Short Stay,180,66,0.37,2.0,428,2026-06-22 23:00:00,taxi
+PARK00243,Zone C - Terminal 3 Short Stay,180,47,0.26,2.0,572,2026-06-23 00:00:00,car
+PARK00244,Zone C - Terminal 3 Short Stay,180,68,0.38,2.0,329,2026-06-23 01:00:00,car
+PARK00245,Zone C - Terminal 3 Short Stay,180,78,0.43,2.0,109,2026-06-23 02:00:00,car
+PARK00246,Zone C - Terminal 3 Short Stay,180,59,0.33,2.0,271,2026-06-23 03:00:00,car
+PARK00247,Zone C - Terminal 3 Short Stay,180,79,0.44,2.0,418,2026-06-23 04:00:00,car
+PARK00248,Zone C - Terminal 3 Short Stay,180,80,0.45,2.0,190,2026-06-23 05:00:00,car
+PARK00249,Zone C - Terminal 3 Short Stay,180,106,0.59,2.0,390,2026-06-23 06:00:00,taxi
+PARK00250,Zone C - Terminal 3 Short Stay,180,144,0.8,2.0,347,2026-06-23 07:00:00,car
+PARK00251,Zone C - Terminal 3 Short Stay,180,148,0.83,2.0,50,2026-06-23 08:00:00,car
+PARK00252,Zone C - Terminal 3 Short Stay,180,131,0.73,2.0,184,2026-06-23 09:00:00,car
+PARK00253,Zone C - Terminal 3 Short Stay,180,99,0.55,2.0,401,2026-06-23 10:00:00,taxi
+PARK00254,Zone C - Terminal 3 Short Stay,180,75,0.42,2.0,538,2026-06-23 11:00:00,car
+PARK00255,Zone C - Terminal 3 Short Stay,180,94,0.52,2.0,210,2026-06-23 12:00:00,car
+PARK00256,Zone C - Terminal 3 Short Stay,180,55,0.31,2.0,265,2026-06-23 13:00:00,car
+PARK00257,Zone C - Terminal 3 Short Stay,180,71,0.4,2.0,437,2026-06-23 14:00:00,van
+PARK00258,Zone C - Terminal 3 Short Stay,180,103,0.58,2.0,421,2026-06-23 15:00:00,motorcycle
+PARK00259,Zone C - Terminal 3 Short Stay,180,119,0.66,2.0,564,2026-06-23 16:00:00,car
+PARK00260,Zone C - Terminal 3 Short Stay,180,132,0.74,2.0,418,2026-06-23 17:00:00,car
+PARK00261,Zone C - Terminal 3 Short Stay,180,157,0.87,2.0,541,2026-06-23 18:00:00,car
+PARK00262,Zone C - Terminal 3 Short Stay,180,159,0.89,2.0,71,2026-06-23 19:00:00,car
+PARK00263,Zone C - Terminal 3 Short Stay,180,103,0.57,2.0,374,2026-06-23 20:00:00,car
+PARK00264,Zone C - Terminal 3 Short Stay,180,87,0.48,2.0,427,2026-06-23 21:00:00,car
+PARK00265,Zone C - Terminal 3 Short Stay,180,66,0.37,2.0,554,2026-06-23 22:00:00,car
+PARK00266,Zone C - Terminal 3 Short Stay,180,80,0.45,2.0,231,2026-06-23 23:00:00,car
+PARK00267,Zone C - Terminal 3 Short Stay,180,89,0.5,2.0,261,2026-06-24 00:00:00,taxi
+PARK00268,Zone C - Terminal 3 Short Stay,180,42,0.24,2.0,486,2026-06-24 01:00:00,van
+PARK00269,Zone C - Terminal 3 Short Stay,180,77,0.43,2.0,330,2026-06-24 02:00:00,car
+PARK00270,Zone C - Terminal 3 Short Stay,180,69,0.39,2.0,55,2026-06-24 03:00:00,van
+PARK00271,Zone C - Terminal 3 Short Stay,180,72,0.4,2.0,173,2026-06-24 04:00:00,car
+PARK00272,Zone C - Terminal 3 Short Stay,180,87,0.49,2.0,291,2026-06-24 05:00:00,car
+PARK00273,Zone C - Terminal 3 Short Stay,180,96,0.53,2.0,352,2026-06-24 06:00:00,car
+PARK00274,Zone C - Terminal 3 Short Stay,180,141,0.79,2.0,255,2026-06-24 07:00:00,taxi
+PARK00275,Zone C - Terminal 3 Short Stay,180,143,0.8,2.0,80,2026-06-24 08:00:00,car
+PARK00276,Zone C - Terminal 3 Short Stay,180,136,0.76,2.0,197,2026-06-24 09:00:00,car
+PARK00277,Zone C - Terminal 3 Short Stay,180,97,0.54,2.0,346,2026-06-24 10:00:00,car
+PARK00278,Zone C - Terminal 3 Short Stay,180,77,0.43,2.0,429,2026-06-24 11:00:00,taxi
+PARK00279,Zone C - Terminal 3 Short Stay,180,102,0.57,2.0,372,2026-06-24 12:00:00,motorcycle
+PARK00280,Zone C - Terminal 3 Short Stay,180,66,0.37,2.0,579,2026-06-24 13:00:00,car
+PARK00281,Zone C - Terminal 3 Short Stay,180,78,0.44,2.0,500,2026-06-24 14:00:00,van
+PARK00282,Zone C - Terminal 3 Short Stay,180,60,0.34,2.0,106,2026-06-24 15:00:00,car
+PARK00283,Zone C - Terminal 3 Short Stay,180,116,0.65,2.0,552,2026-06-24 16:00:00,car
+PARK00284,Zone C - Terminal 3 Short Stay,180,134,0.74,2.0,482,2026-06-24 17:00:00,van
+PARK00285,Zone C - Terminal 3 Short Stay,180,118,0.66,2.0,90,2026-06-24 18:00:00,van
+PARK00286,Zone C - Terminal 3 Short Stay,180,107,0.6,2.0,374,2026-06-24 19:00:00,motorcycle
+PARK00287,Zone C - Terminal 3 Short Stay,180,94,0.52,2.0,390,2026-06-24 20:00:00,taxi
+PARK00288,Zone C - Terminal 3 Short Stay,180,86,0.48,2.0,551,2026-06-24 21:00:00,car
+PARK00289,Zone C - Terminal 3 Short Stay,180,80,0.45,2.0,258,2026-06-24 22:00:00,van
+PARK00290,Zone C - Terminal 3 Short Stay,180,87,0.49,2.0,504,2026-06-24 23:00:00,taxi
+PARK00291,Zone C - Terminal 3 Short Stay,180,63,0.35,2.0,81,2026-06-25 00:00:00,car
+PARK00292,Zone D - Long Term,600,288,0.48,0.8,140,2026-06-21 00:00:00,taxi
+PARK00293,Zone D - Long Term,600,233,0.39,0.8,461,2026-06-21 01:00:00,van
+PARK00294,Zone D - Long Term,600,172,0.29,0.8,426,2026-06-21 02:00:00,van
+PARK00295,Zone D - Long Term,600,342,0.57,0.8,251,2026-06-21 03:00:00,taxi
+PARK00296,Zone D - Long Term,600,257,0.43,0.8,261,2026-06-21 04:00:00,car
+PARK00297,Zone D - Long Term,600,289,0.48,0.8,279,2026-06-21 05:00:00,taxi
+PARK00298,Zone D - Long Term,600,383,0.64,0.8,582,2026-06-21 06:00:00,car
+PARK00299,Zone D - Long Term,600,533,0.89,0.8,595,2026-06-21 07:00:00,car
+PARK00300,Zone D - Long Term,600,451,0.75,0.8,72,2026-06-21 08:00:00,taxi
+PARK00301,Zone D - Long Term,600,479,0.8,0.8,415,2026-06-21 09:00:00,car
+PARK00302,Zone D - Long Term,600,342,0.57,0.8,82,2026-06-21 10:00:00,car
+PARK00303,Zone D - Long Term,600,266,0.44,0.8,377,2026-06-21 11:00:00,car
+PARK00304,Zone D - Long Term,600,291,0.49,0.8,362,2026-06-21 12:00:00,car
+PARK00305,Zone D - Long Term,600,191,0.32,0.8,66,2026-06-21 13:00:00,car
+PARK00306,Zone D - Long Term,600,262,0.44,0.8,426,2026-06-21 14:00:00,car
+PARK00307,Zone D - Long Term,600,242,0.4,0.8,382,2026-06-21 15:00:00,taxi
+PARK00308,Zone D - Long Term,600,382,0.64,0.8,160,2026-06-21 16:00:00,car
+PARK00309,Zone D - Long Term,600,420,0.7,0.8,95,2026-06-21 17:00:00,car
+PARK00310,Zone D - Long Term,600,443,0.74,0.8,576,2026-06-21 18:00:00,car
+PARK00311,Zone D - Long Term,600,446,0.74,0.8,65,2026-06-21 19:00:00,car
+PARK00312,Zone D - Long Term,600,330,0.55,0.8,401,2026-06-21 20:00:00,car
+PARK00313,Zone D - Long Term,600,277,0.46,0.8,75,2026-06-21 21:00:00,motorcycle
+PARK00314,Zone D - Long Term,600,281,0.47,0.8,392,2026-06-21 22:00:00,car
+PARK00315,Zone D - Long Term,600,209,0.35,0.8,563,2026-06-21 23:00:00,car
+PARK00316,Zone D - Long Term,600,114,0.19,0.8,415,2026-06-22 00:00:00,car
+PARK00317,Zone D - Long Term,600,203,0.34,0.8,268,2026-06-22 01:00:00,car
+PARK00318,Zone D - Long Term,600,277,0.46,0.8,489,2026-06-22 02:00:00,van
+PARK00319,Zone D - Long Term,600,211,0.35,0.8,337,2026-06-22 03:00:00,car
+PARK00320,Zone D - Long Term,600,268,0.45,0.8,511,2026-06-22 04:00:00,car
+PARK00321,Zone D - Long Term,600,274,0.46,0.8,299,2026-06-22 05:00:00,car
+PARK00322,Zone D - Long Term,600,329,0.55,0.8,464,2026-06-22 06:00:00,car
+PARK00323,Zone D - Long Term,600,459,0.77,0.8,286,2026-06-22 07:00:00,taxi
+PARK00324,Zone D - Long Term,600,458,0.76,0.8,299,2026-06-22 08:00:00,car
+PARK00325,Zone D - Long Term,600,427,0.71,0.8,274,2026-06-22 09:00:00,car
+PARK00326,Zone D - Long Term,600,312,0.52,0.8,597,2026-06-22 10:00:00,van
+PARK00327,Zone D - Long Term,600,289,0.48,0.8,82,2026-06-22 11:00:00,car
+PARK00328,Zone D - Long Term,600,266,0.44,0.8,330,2026-06-22 12:00:00,car
+PARK00329,Zone D - Long Term,600,205,0.34,0.8,180,2026-06-22 13:00:00,car
+PARK00330,Zone D - Long Term,600,261,0.44,0.8,160,2026-06-22 14:00:00,van
+PARK00331,Zone D - Long Term,600,300,0.5,0.8,466,2026-06-22 15:00:00,car
+PARK00332,Zone D - Long Term,600,366,0.61,0.8,590,2026-06-22 16:00:00,taxi
+PARK00333,Zone D - Long Term,600,371,0.62,0.8,296,2026-06-22 17:00:00,van
+PARK00334,Zone D - Long Term,600,464,0.77,0.8,210,2026-06-22 18:00:00,car
+PARK00335,Zone D - Long Term,600,432,0.72,0.8,406,2026-06-22 19:00:00,car
+PARK00336,Zone D - Long Term,600,424,0.71,0.8,597,2026-06-22 20:00:00,car
+PARK00337,Zone D - Long Term,600,306,0.51,0.8,425,2026-06-22 21:00:00,car
+PARK00338,Zone D - Long Term,600,201,0.34,0.8,351,2026-06-22 22:00:00,taxi
+PARK00339,Zone D - Long Term,600,171,0.29,0.8,50,2026-06-22 23:00:00,car
+PARK00340,Zone D - Long Term,600,73,0.12,0.8,489,2026-06-23 00:00:00,car
+PARK00341,Zone D - Long Term,600,172,0.29,0.8,342,2026-06-23 01:00:00,van
+PARK00342,Zone D - Long Term,600,287,0.48,0.8,256,2026-06-23 02:00:00,car
+PARK00343,Zone D - Long Term,600,235,0.39,0.8,156,2026-06-23 03:00:00,car
+PARK00344,Zone D - Long Term,600,265,0.44,0.8,100,2026-06-23 04:00:00,taxi
+PARK00345,Zone D - Long Term,600,327,0.55,0.8,109,2026-06-23 05:00:00,van
+PARK00346,Zone D - Long Term,600,440,0.73,0.8,459,2026-06-23 06:00:00,car
+PARK00347,Zone D - Long Term,600,388,0.65,0.8,181,2026-06-23 07:00:00,motorcycle
+PARK00348,Zone D - Long Term,600,502,0.84,0.8,204,2026-06-23 08:00:00,van
+PARK00349,Zone D - Long Term,600,541,0.9,0.8,461,2026-06-23 09:00:00,car
+PARK00350,Zone D - Long Term,600,284,0.47,0.8,326,2026-06-23 10:00:00,car
+PARK00351,Zone D - Long Term,600,280,0.47,0.8,551,2026-06-23 11:00:00,car
+PARK00352,Zone D - Long Term,600,297,0.5,0.8,339,2026-06-23 12:00:00,car
+PARK00353,Zone D - Long Term,600,220,0.37,0.8,337,2026-06-23 13:00:00,car
+PARK00354,Zone D - Long Term,600,260,0.43,0.8,503,2026-06-23 14:00:00,car
+PARK00355,Zone D - Long Term,600,299,0.5,0.8,422,2026-06-23 15:00:00,taxi
+PARK00356,Zone D - Long Term,600,371,0.62,0.8,241,2026-06-23 16:00:00,car
+PARK00357,Zone D - Long Term,600,351,0.59,0.8,141,2026-06-23 17:00:00,car
+PARK00358,Zone D - Long Term,600,511,0.85,0.8,571,2026-06-23 18:00:00,taxi
+PARK00359,Zone D - Long Term,600,426,0.71,0.8,144,2026-06-23 19:00:00,car
+PARK00360,Zone D - Long Term,600,339,0.57,0.8,564,2026-06-23 20:00:00,van
+PARK00361,Zone D - Long Term,600,350,0.58,0.8,56,2026-06-23 21:00:00,car
+PARK00362,Zone D - Long Term,600,253,0.42,0.8,556,2026-06-23 22:00:00,car
+PARK00363,Zone D - Long Term,600,262,0.44,0.8,539,2026-06-23 23:00:00,car
+PARK00364,Zone D - Long Term,600,252,0.42,0.8,530,2026-06-24 00:00:00,car
+PARK00365,Zone D - Long Term,600,173,0.29,0.8,514,2026-06-24 01:00:00,car
+PARK00366,Zone D - Long Term,600,259,0.43,0.8,564,2026-06-24 02:00:00,car
+PARK00367,Zone D - Long Term,600,273,0.46,0.8,495,2026-06-24 03:00:00,car
+PARK00368,Zone D - Long Term,600,308,0.51,0.8,530,2026-06-24 04:00:00,car
+PARK00369,Zone D - Long Term,600,243,0.41,0.8,52,2026-06-24 05:00:00,motorcycle
+PARK00370,Zone D - Long Term,600,425,0.71,0.8,329,2026-06-24 06:00:00,van
+PARK00371,Zone D - Long Term,600,488,0.81,0.8,423,2026-06-24 07:00:00,car
+PARK00372,Zone D - Long Term,600,475,0.79,0.8,487,2026-06-24 08:00:00,car
+PARK00373,Zone D - Long Term,600,493,0.82,0.8,542,2026-06-24 09:00:00,taxi
+PARK00374,Zone D - Long Term,600,425,0.71,0.8,435,2026-06-24 10:00:00,car
+PARK00375,Zone D - Long Term,600,327,0.55,0.8,352,2026-06-24 11:00:00,car
+PARK00376,Zone D - Long Term,600,326,0.54,0.8,430,2026-06-24 12:00:00,car
+PARK00377,Zone D - Long Term,600,231,0.39,0.8,443,2026-06-24 13:00:00,car
+PARK00378,Zone D - Long Term,600,271,0.45,0.8,247,2026-06-24 14:00:00,taxi
+PARK00379,Zone D - Long Term,600,214,0.36,0.8,467,2026-06-24 15:00:00,car
+PARK00380,Zone D - Long Term,600,382,0.64,0.8,449,2026-06-24 16:00:00,taxi
+PARK00381,Zone D - Long Term,600,478,0.8,0.8,144,2026-06-24 17:00:00,car
+PARK00382,Zone D - Long Term,600,491,0.82,0.8,351,2026-06-24 18:00:00,motorcycle
+PARK00383,Zone D - Long Term,600,477,0.8,0.8,244,2026-06-24 19:00:00,car
+PARK00384,Zone D - Long Term,600,343,0.57,0.8,404,2026-06-24 20:00:00,car
+PARK00385,Zone D - Long Term,600,359,0.6,0.8,197,2026-06-24 21:00:00,car
+PARK00386,Zone D - Long Term,600,205,0.34,0.8,527,2026-06-24 22:00:00,car
+PARK00387,Zone D - Long Term,600,229,0.38,0.8,75,2026-06-24 23:00:00,van
+PARK00388,Zone D - Long Term,600,147,0.25,0.8,537,2026-06-25 00:00:00,car

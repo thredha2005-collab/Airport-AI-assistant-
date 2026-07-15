@@ -1,0 +1,11 @@
+{
+    "training_date": "2026-06-23 07:43:20",
+    "status": "success",
+    "models": {
+        "wait_time_model": "wait_time_model.joblib",
+        "congestion_model": "congestion_model.joblib",
+        "delay_model": "delay_model.joblib",
+        "facility_utilization_ratio_model": "facility_utilization_ratio_model.joblib",
+        "facility_utilization_crowd_model": "facility_utilization_crowd_model.joblib"
+    }
+}

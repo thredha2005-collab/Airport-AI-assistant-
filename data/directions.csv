@@ -1,0 +1,97 @@
+direction_id,from_location_id,from_location_name,to_location_id,to_location_name,path_description,distance_m,estimated_walk_time_min,terminal,floor_change_flag
+DIR0001,FAC0020,Gate 108,FAC0033,ATM 1,"From Gate 108 (T1), head toward atm signage and walk to ATM 1.",161.6,2.0,T1,True
+DIR0002,FAC0020,Gate 108,FAC0035,ATM 3,"From Gate 108 (T1), head toward atm signage and walk to ATM 3.",136.6,1.7,T1,True
+DIR0003,FAC0020,Gate 108,FAC0026,Medical Aid Center,"From Gate 108 (T1), head toward medical signage and walk to Medical Aid Center.",293.1,3.7,T1,True
+DIR0004,FAC0020,Gate 108,FAC0023,Restroom 3,"From Gate 108 (T1), head toward restroom signage and walk to Restroom 3.",177.7,2.2,T1,True
+DIR0005,FAC0020,Gate 108,FAC0021,Restroom 1,"From Gate 108 (T1), head toward restroom signage and walk to Restroom 1.",306.3,3.8,T1,False
+DIR0006,FAC0013,Gate 101,FAC0030,Cafe 2,"From Gate 101 (T1), head toward cafe signage and walk to Cafe 2.",160.0,2.0,T1,True
+DIR0007,FAC0013,Gate 101,FAC0022,Restroom 2,"From Gate 101 (T1), head toward restroom signage and walk to Restroom 2.",42.6,0.5,T1,False
+DIR0008,FAC0013,Gate 101,FAC0035,ATM 3,"From Gate 101 (T1), head toward atm signage and walk to ATM 3.",228.4,2.9,T1,False
+DIR0009,FAC0013,Gate 101,FAC0032,T1 Premier Lounge 1,"From Gate 101 (T1), head toward lounge signage and walk to T1 Premier Lounge 1.",347.1,4.3,T1,False
+DIR0010,FAC0013,Gate 101,FAC0023,Restroom 3,"From Gate 101 (T1), head toward restroom signage and walk to Restroom 3.",138.2,1.7,T1,False
+DIR0011,FAC0019,Gate 107,FAC0035,ATM 3,"From Gate 107 (T1), head toward atm signage and walk to ATM 3.",83.4,1.0,T1,True
+DIR0012,FAC0019,Gate 107,FAC0032,T1 Premier Lounge 1,"From Gate 107 (T1), head toward lounge signage and walk to T1 Premier Lounge 1.",147.3,1.8,T1,True
+DIR0013,FAC0019,Gate 107,FAC0031,Cafe 3,"From Gate 107 (T1), head toward cafe signage and walk to Cafe 3.",227.3,2.8,T1,False
+DIR0014,FAC0019,Gate 107,FAC0024,Restroom 4,"From Gate 107 (T1), head toward restroom signage and walk to Restroom 4.",94.1,1.2,T1,True
+DIR0015,FAC0019,Gate 107,FAC0030,Cafe 2,"From Gate 107 (T1), head toward cafe signage and walk to Cafe 2.",116.9,1.5,T1,False
+DIR0016,FAC0005,Check-in Counter 5,FAC0026,Medical Aid Center,"From Check-in Counter 5 (T1), head toward medical signage and walk to Medical Aid Center.",411.8,5.1,T1,True
+DIR0017,FAC0005,Check-in Counter 5,FAC0021,Restroom 1,"From Check-in Counter 5 (T1), head toward restroom signage and walk to Restroom 1.",420.2,5.3,T1,True
+DIR0018,FAC0005,Check-in Counter 5,FAC0032,T1 Premier Lounge 1,"From Check-in Counter 5 (T1), head toward lounge signage and walk to T1 Premier Lounge 1.",319.5,4.0,T1,True
+DIR0019,FAC0005,Check-in Counter 5,FAC0031,Cafe 3,"From Check-in Counter 5 (T1), head toward cafe signage and walk to Cafe 3.",113.9,1.4,T1,False
+DIR0020,FAC0005,Check-in Counter 5,FAC0022,Restroom 2,"From Check-in Counter 5 (T1), head toward restroom signage and walk to Restroom 2.",66.8,0.8,T1,True
+DIR0021,FAC0017,Gate 105,FAC0032,T1 Premier Lounge 1,"From Gate 105 (T1), head toward lounge signage and walk to T1 Premier Lounge 1.",86.8,1.1,T1,False
+DIR0022,FAC0017,Gate 105,FAC0034,ATM 2,"From Gate 105 (T1), head toward atm signage and walk to ATM 2.",121.8,1.5,T1,True
+DIR0023,FAC0017,Gate 105,FAC0025,Restroom 5,"From Gate 105 (T1), head toward restroom signage and walk to Restroom 5.",79.9,1.0,T1,True
+DIR0024,FAC0017,Gate 105,FAC0023,Restroom 3,"From Gate 105 (T1), head toward restroom signage and walk to Restroom 3.",179.2,2.2,T1,False
+DIR0025,FAC0017,Gate 105,FAC0022,Restroom 2,"From Gate 105 (T1), head toward restroom signage and walk to Restroom 2.",219.9,2.7,T1,False
+DIR0026,FAC0007,Check-in Counter 7,FAC0034,ATM 2,"From Check-in Counter 7 (T1), head toward atm signage and walk to ATM 2.",145.0,1.8,T1,True
+DIR0027,FAC0007,Check-in Counter 7,FAC0035,ATM 3,"From Check-in Counter 7 (T1), head toward atm signage and walk to ATM 3.",146.4,1.8,T1,True
+DIR0028,FAC0007,Check-in Counter 7,FAC0026,Medical Aid Center,"From Check-in Counter 7 (T1), head toward medical signage and walk to Medical Aid Center.",367.6,4.6,T1,True
+DIR0029,FAC0007,Check-in Counter 7,FAC0021,Restroom 1,"From Check-in Counter 7 (T1), head toward restroom signage and walk to Restroom 1.",374.7,4.7,T1,True
+DIR0030,FAC0007,Check-in Counter 7,FAC0022,Restroom 2,"From Check-in Counter 7 (T1), head toward restroom signage and walk to Restroom 2.",100.7,1.3,T1,True
+DIR0031,FAC0041,Check-in Counter 3,FAC0067,Restroom 5,"From Check-in Counter 3 (T2), head toward restroom signage and walk to Restroom 5.",257.1,3.2,T2,False
+DIR0032,FAC0041,Check-in Counter 3,FAC0074,T2 Premier Lounge 1,"From Check-in Counter 3 (T2), head toward lounge signage and walk to T2 Premier Lounge 1.",30.7,0.4,T2,False
+DIR0033,FAC0041,Check-in Counter 3,FAC0068,Medical Aid Center,"From Check-in Counter 3 (T2), head toward medical signage and walk to Medical Aid Center.",175.1,2.2,T2,True
+DIR0034,FAC0041,Check-in Counter 3,FAC0064,Restroom 2,"From Check-in Counter 3 (T2), head toward restroom signage and walk to Restroom 2.",204.3,2.6,T2,False
+DIR0035,FAC0041,Check-in Counter 3,FAC0070,Gift Shop 2,"From Check-in Counter 3 (T2), head toward gift shop signage and walk to Gift Shop 2.",122.6,1.5,T2,True
+DIR0036,FAC0046,Check-in Counter 8,FAC0064,Restroom 2,"From Check-in Counter 8 (T2), head toward restroom signage and walk to Restroom 2.",96.5,1.2,T2,True
+DIR0037,FAC0046,Check-in Counter 8,FAC0069,Gift Shop 1,"From Check-in Counter 8 (T2), head toward gift shop signage and walk to Gift Shop 1.",260.8,3.3,T2,False
+DIR0038,FAC0046,Check-in Counter 8,FAC0080,Baggage Claim Belt 2,"From Check-in Counter 8 (T2), head toward baggage claim signage and walk to Baggage Claim Belt 2.",197.5,2.5,T2,True
+DIR0039,FAC0046,Check-in Counter 8,FAC0074,T2 Premier Lounge 1,"From Check-in Counter 8 (T2), head toward lounge signage and walk to T2 Premier Lounge 1.",121.3,1.5,T2,True
+DIR0040,FAC0046,Check-in Counter 8,FAC0073,Cafe 3,"From Check-in Counter 8 (T2), head toward cafe signage and walk to Cafe 3.",243.1,3.0,T2,False
+DIR0041,FAC0055,Gate 201,FAC0069,Gift Shop 1,"From Gate 201 (T2), head toward gift shop signage and walk to Gift Shop 1.",316.5,4.0,T2,False
+DIR0042,FAC0055,Gate 201,FAC0074,T2 Premier Lounge 1,"From Gate 201 (T2), head toward lounge signage and walk to T2 Premier Lounge 1.",97.0,1.2,T2,True
+DIR0043,FAC0055,Gate 201,FAC0080,Baggage Claim Belt 2,"From Gate 201 (T2), head toward baggage claim signage and walk to Baggage Claim Belt 2.",297.7,3.7,T2,True
+DIR0044,FAC0055,Gate 201,FAC0071,Cafe 1,"From Gate 201 (T2), head toward cafe signage and walk to Cafe 1.",191.4,2.4,T2,True
+DIR0045,FAC0055,Gate 201,FAC0075,ATM 1,"From Gate 201 (T2), head toward atm signage and walk to ATM 1.",194.3,2.4,T2,False
+DIR0046,FAC0052,Immigration Desk 3,FAC0063,Restroom 1,"From Immigration Desk 3 (T2), head toward restroom signage and walk to Restroom 1.",80.8,1.0,T2,True
+DIR0047,FAC0052,Immigration Desk 3,FAC0069,Gift Shop 1,"From Immigration Desk 3 (T2), head toward gift shop signage and walk to Gift Shop 1.",39.3,0.5,T2,True
+DIR0048,FAC0052,Immigration Desk 3,FAC0068,Medical Aid Center,"From Immigration Desk 3 (T2), head toward medical signage and walk to Medical Aid Center.",283.7,3.5,T2,True
+DIR0049,FAC0052,Immigration Desk 3,FAC0075,ATM 1,"From Immigration Desk 3 (T2), head toward atm signage and walk to ATM 1.",441.1,5.5,T2,True
+DIR0050,FAC0052,Immigration Desk 3,FAC0070,Gift Shop 2,"From Immigration Desk 3 (T2), head toward gift shop signage and walk to Gift Shop 2.",228.0,2.9,T2,True
+DIR0051,FAC0045,Check-in Counter 7,FAC0064,Restroom 2,"From Check-in Counter 7 (T2), head toward restroom signage and walk to Restroom 2.",224.6,2.8,T2,False
+DIR0052,FAC0045,Check-in Counter 7,FAC0075,ATM 1,"From Check-in Counter 7 (T2), head toward atm signage and walk to ATM 1.",112.9,1.4,T2,True
+DIR0053,FAC0045,Check-in Counter 7,FAC0076,ATM 2,"From Check-in Counter 7 (T2), head toward atm signage and walk to ATM 2.",64.4,0.8,T2,False
+DIR0054,FAC0045,Check-in Counter 7,FAC0072,Cafe 2,"From Check-in Counter 7 (T2), head toward cafe signage and walk to Cafe 2.",65.2,0.8,T2,True
+DIR0055,FAC0045,Check-in Counter 7,FAC0077,ATM 3,"From Check-in Counter 7 (T2), head toward atm signage and walk to ATM 3.",386.6,4.8,T2,False
+DIR0056,FAC0058,Gate 204,FAC0069,Gift Shop 1,"From Gate 204 (T2), head toward gift shop signage and walk to Gift Shop 1.",275.7,3.4,T2,True
+DIR0057,FAC0058,Gate 204,FAC0067,Restroom 5,"From Gate 204 (T2), head toward restroom signage and walk to Restroom 5.",261.8,3.3,T2,True
+DIR0058,FAC0058,Gate 204,FAC0066,Restroom 4,"From Gate 204 (T2), head toward restroom signage and walk to Restroom 4.",278.5,3.5,T2,True
+DIR0059,FAC0058,Gate 204,FAC0072,Cafe 2,"From Gate 204 (T2), head toward cafe signage and walk to Cafe 2.",146.8,1.8,T2,True
+DIR0060,FAC0058,Gate 204,FAC0076,ATM 2,"From Gate 204 (T2), head toward atm signage and walk to ATM 2.",156.3,2.0,T2,True
+DIR0061,FAC0099,Gate 307,FAC0103,Restroom 3,"From Gate 307 (T3), head toward restroom signage and walk to Restroom 3.",459.6,5.7,T3,True
+DIR0062,FAC0099,Gate 307,FAC0106,Medical Aid Center,"From Gate 307 (T3), head toward medical signage and walk to Medical Aid Center.",433.3,5.4,T3,True
+DIR0063,FAC0099,Gate 307,FAC0116,Prayer Room,"From Gate 307 (T3), head toward prayer room signage and walk to Prayer Room.",139.0,1.7,T3,False
+DIR0064,FAC0099,Gate 307,FAC0111,Cafe 3,"From Gate 307 (T3), head toward cafe signage and walk to Cafe 3.",178.6,2.2,T3,True
+DIR0065,FAC0099,Gate 307,FAC0118,Baggage Claim Belt 2,"From Gate 307 (T3), head toward baggage claim signage and walk to Baggage Claim Belt 2.",203.4,2.5,T3,True
+DIR0066,FAC0087,Check-in Counter 7,FAC0115,ATM 3,"From Check-in Counter 7 (T3), head toward atm signage and walk to ATM 3.",89.1,1.1,T3,True
+DIR0067,FAC0087,Check-in Counter 7,FAC0106,Medical Aid Center,"From Check-in Counter 7 (T3), head toward medical signage and walk to Medical Aid Center.",366.5,4.6,T3,False
+DIR0068,FAC0087,Check-in Counter 7,FAC0111,Cafe 3,"From Check-in Counter 7 (T3), head toward cafe signage and walk to Cafe 3.",98.3,1.2,T3,True
+DIR0069,FAC0087,Check-in Counter 7,FAC0118,Baggage Claim Belt 2,"From Check-in Counter 7 (T3), head toward baggage claim signage and walk to Baggage Claim Belt 2.",116.4,1.5,T3,True
+DIR0070,FAC0087,Check-in Counter 7,FAC0112,T3 Premier Lounge 1,"From Check-in Counter 7 (T3), head toward lounge signage and walk to T3 Premier Lounge 1.",117.9,1.5,T3,False
+DIR0071,FAC0081,Check-in Counter 1,FAC0114,ATM 2,"From Check-in Counter 1 (T3), head toward atm signage and walk to ATM 2.",43.5,0.5,T3,True
+DIR0072,FAC0081,Check-in Counter 1,FAC0101,Restroom 1,"From Check-in Counter 1 (T3), head toward restroom signage and walk to Restroom 1.",299.0,3.7,T3,True
+DIR0073,FAC0081,Check-in Counter 1,FAC0104,Restroom 4,"From Check-in Counter 1 (T3), head toward restroom signage and walk to Restroom 4.",169.6,2.1,T3,True
+DIR0074,FAC0081,Check-in Counter 1,FAC0113,ATM 1,"From Check-in Counter 1 (T3), head toward atm signage and walk to ATM 1.",268.1,3.4,T3,False
+DIR0075,FAC0081,Check-in Counter 1,FAC0107,Gift Shop 1,"From Check-in Counter 1 (T3), head toward gift shop signage and walk to Gift Shop 1.",110.5,1.4,T3,True
+DIR0076,FAC0083,Check-in Counter 3,FAC0109,Cafe 1,"From Check-in Counter 3 (T3), head toward cafe signage and walk to Cafe 1.",108.4,1.4,T3,False
+DIR0077,FAC0083,Check-in Counter 3,FAC0105,Restroom 5,"From Check-in Counter 3 (T3), head toward restroom signage and walk to Restroom 5.",145.7,1.8,T3,False
+DIR0078,FAC0083,Check-in Counter 3,FAC0103,Restroom 3,"From Check-in Counter 3 (T3), head toward restroom signage and walk to Restroom 3.",222.2,2.8,T3,False
+DIR0079,FAC0083,Check-in Counter 3,FAC0106,Medical Aid Center,"From Check-in Counter 3 (T3), head toward medical signage and walk to Medical Aid Center.",186.0,2.3,T3,False
+DIR0080,FAC0083,Check-in Counter 3,FAC0111,Cafe 3,"From Check-in Counter 3 (T3), head toward cafe signage and walk to Cafe 3.",87.0,1.1,T3,True
+DIR0081,FAC0095,Gate 303,FAC0114,ATM 2,"From Gate 303 (T3), head toward atm signage and walk to ATM 2.",210.2,2.6,T3,True
+DIR0082,FAC0095,Gate 303,FAC0117,Baggage Claim Belt 1,"From Gate 303 (T3), head toward baggage claim signage and walk to Baggage Claim Belt 1.",245.1,3.1,T3,True
+DIR0083,FAC0095,Gate 303,FAC0101,Restroom 1,"From Gate 303 (T3), head toward restroom signage and walk to Restroom 1.",456.8,5.7,T3,True
+DIR0084,FAC0095,Gate 303,FAC0104,Restroom 4,"From Gate 303 (T3), head toward restroom signage and walk to Restroom 4.",293.4,3.7,T3,True
+DIR0085,FAC0095,Gate 303,FAC0106,Medical Aid Center,"From Gate 303 (T3), head toward medical signage and walk to Medical Aid Center.",183.8,2.3,T3,False
+DIR0086,FAC0089,Security Checkpoint 1,FAC0110,Cafe 2,"From Security Checkpoint 1 (T3), head toward cafe signage and walk to Cafe 2.",223.9,2.8,T3,True
+DIR0087,FAC0089,Security Checkpoint 1,FAC0104,Restroom 4,"From Security Checkpoint 1 (T3), head toward restroom signage and walk to Restroom 4.",267.7,3.3,T3,True
+DIR0088,FAC0089,Security Checkpoint 1,FAC0115,ATM 3,"From Security Checkpoint 1 (T3), head toward atm signage and walk to ATM 3.",310.3,3.9,T3,False
+DIR0089,FAC0089,Security Checkpoint 1,FAC0106,Medical Aid Center,"From Security Checkpoint 1 (T3), head toward medical signage and walk to Medical Aid Center.",154.5,1.9,T3,True
+DIR0090,FAC0089,Security Checkpoint 1,FAC0116,Prayer Room,"From Security Checkpoint 1 (T3), head toward prayer room signage and walk to Prayer Room.",280.3,3.5,T3,True
+DIR0091,T1-ENTRY,T1 Main Entrance,T2-ENTRY,T2 Main Entrance,Take the inter-terminal shuttle from T1 to T2.,820.0,12.0,T1->T2,False
+DIR0092,T1-ENTRY,T1 Main Entrance,T3-ENTRY,T3 Main Entrance,Take the inter-terminal shuttle from T1 to T3.,541.0,13.0,T1->T3,False
+DIR0093,T2-ENTRY,T2 Main Entrance,T1-ENTRY,T1 Main Entrance,Take the inter-terminal shuttle from T2 to T1.,865.0,13.0,T2->T1,False
+DIR0094,T2-ENTRY,T2 Main Entrance,T3-ENTRY,T3 Main Entrance,Take the inter-terminal shuttle from T2 to T3.,826.0,9.0,T2->T3,False
+DIR0095,T3-ENTRY,T3 Main Entrance,T1-ENTRY,T1 Main Entrance,Take the inter-terminal shuttle from T3 to T1.,552.0,9.0,T3->T1,False
+DIR0096,T3-ENTRY,T3 Main Entrance,T2-ENTRY,T2 Main Entrance,Take the inter-terminal shuttle from T3 to T2.,519.0,13.0,T3->T2,False
